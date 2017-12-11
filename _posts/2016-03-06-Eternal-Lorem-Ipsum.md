@@ -1,7 +1,7 @@
 ---
 layout: post
 title: information system
-author: Author Name
+author: fajarayuningrum22@gmail.com
 ---
 Jurusan Sistem Informasi
 
