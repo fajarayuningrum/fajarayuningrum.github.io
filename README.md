@@ -18,7 +18,7 @@ Let's quickly set up your new blog in a matter of minutes.
 
 ### Fork this repository
 
-Hit the “Fork” button in the top-right corner of the repository to fork a copy of this theme to your GitHub account and rename it to **yourusername.github.io** and then visit https://yourusername.github.io and you'll be able to see your newly created blog using Jekyll-Mono.
+Hit the “Fork” button in the top-right corner of the repository to fork a copy of this theme to your GitHub account and rename it to **fajarayuningrum.github.io** and then visit https://fajarayuningrum.github.io and you'll be able to see your newly created blog using Jekyll-Mono.
 
 ### Customise Jekyll-Mono
 
